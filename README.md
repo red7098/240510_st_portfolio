@@ -3,7 +3,7 @@
 
 1.유혜림 https://hxelim.github.io/hyelim_portfolio/
 
-2.이유림 (작업중)
+2.이유림 https://leuyrem.github.io/portfolio/
 
 3.조민지 https://mnz0y.github.io/
 

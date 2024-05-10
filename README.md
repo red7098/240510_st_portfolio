@@ -9,7 +9,7 @@
 
 4.전지우 https://jiwoo1107.github.io/project_bd/
 
-5.박동열 https://alanpark727.github.io/portfolio/ (작업중)
+5.박동열 https://alanpark727.github.io/portfolio/
 
 6.이유민 https://youu99.github.io/Portfolio2/ 
 
@@ -23,6 +23,6 @@
 
 11.전종호 https://jeonjongho97.github.io/PORTFOLIO/
 
-12.전한미 https://c0oki2.github.io/portfolio_latest/ (작업중)
+12.전한미 https://c0oki2.github.io/hm_portfolio/ (작업중)
 
 13.조원우 https://gitwonwoo.github.io/portfolio/ (작업중)

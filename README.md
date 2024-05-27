@@ -17,9 +17,9 @@
 
 8.김영아 https://younga298.github.io/youngah-portfolio/
 
-9.임예랑 https://0limmmmmm0.github.io/PortPoilo_/ (작업중)
+9.임예랑 https://0limmmmmm0.github.io/PortPoilo_/
 
-10.나예진 https://nayeye13.github.io/PORTFOLIO/ (작업중)
+10.나예진 https://nayeye13.github.io/PORTFOLIO/
 
 11.전종호 https://jeonjongho97.github.io/PORTFOLIO/
 

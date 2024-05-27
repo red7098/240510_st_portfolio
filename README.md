@@ -19,7 +19,7 @@
 
 9.임예랑 https://0limmmmmm0.github.io/PortPoilo_/
 
-10.나예진 https://nayeye13.github.io/PORTFOLIO/
+10.나예진 https://nayeye13.github.io/PORTFOLIO/ (작업중)
 
 11.전종호 https://jeonjongho97.github.io/PORTFOLIO/
 

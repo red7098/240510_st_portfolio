@@ -15,7 +15,7 @@
 
 7.서영석 https://naisha855.github.io/Asher_Portfolio_distribution/
 
-8.김영아 https://younga298.github.io/youngah-portfolio/
+8.김영아 https://younga298.github.io/-2024-kimyounga_portfolio/
 
 9.임예랑 https://0limmmmmm0.github.io/PortPoilo_/
 

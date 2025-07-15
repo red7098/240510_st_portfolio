@@ -1,7 +1,7 @@
 # 240510_st_portfolio
 [스마트웹&콘텐츠개발]UIUX 디자인&프론트엔드 개발자 양성C
 
-1.유혜림 https://hxelim.github.io/hyelim_portfolio/
+1.유혜림 
 
 2.이유림 https://leuyrem.github.io/portfolio/
 
